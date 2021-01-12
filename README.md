@@ -12,8 +12,7 @@ but before you start here an little Checklist:
 
 # Crafting Recipes
 
-![Suit Helmet](https://cdn.discordapp.com/attachments/798574269801037864/798653897475489843/unknown.png)
-![Suit Chestplate](https://cdn.discordapp.com/attachments/798574269801037864/798654304017055774/unknown.png)
+![Suit Helmet](https://cdn.discordapp.com/attachments/798574269801037864/798653897475489843/unknown.png)![Suit Chestplate](https://cdn.discordapp.com/attachments/798574269801037864/798654304017055774/unknown.png)
 ![Suit Leggins](https://cdn.discordapp.com/attachments/798574269801037864/798654290658459658/unknown.png)
 ![Suit Boots](https://cdn.discordapp.com/attachments/798574269801037864/798654370216280124/unknown.png)
 
