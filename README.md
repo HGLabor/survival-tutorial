@@ -1,16 +1,15 @@
 # HGLabor Survival - Tutorial
-Learn everything about the new features in HGLaborSurvival
-Before you start to read make sure that you have installed the resourcepack
-If not type /rp in the chat to download it
+Learn everything about the new features in HGLaborSurvival!
+Before you read further, make sure that you have installed the server resourcepack.
+If not, execute the /rp command to download it.
 
 # Moonflight
 In HGLaborSurvival you can fly to the moon. 
-Just place your crafted rocket on the ground and enjoy the flight
-but before you start here an little Checklist:
+Just place your crafted rocket on the ground and enjoy the flight. Before you start, here is a checklist of what you need:
 
-- You need an full set of the spacesuit
-- You need an strong sword
-- You need an to know how to craft these things
+- a full spacesuit set
+- a strong sword
+- you have to know the crafting recipes of these items
 
 # Crafting Recipes
 
@@ -20,11 +19,11 @@ but before you start here an little Checklist:
 
 # Warning - Aliens!
 
-The moon is extremly dangerous, Aliens spawn there that attack and poison you. There are 5 types of aliens:
+The moon is extremly dangerous, aliens spawn there that attack and poison you. There are 5 types of aliens:
 - normal aliens
 - gray stronger aliens
 - blue extremely strong aliens
 - illusioner which can clone them
-- Stone monsters.
+- stone monsters
 
-Water is also harmful on the moon, if you stay in it for more than 3 seconds you will get the wither effect
+Additionally, water is harmful on the moon, if you stay in it for more than 3 seconds you will get the wither effect
