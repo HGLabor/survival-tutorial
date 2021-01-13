@@ -1,5 +1,7 @@
 # HGLabor Survival - Tutorial
 Learn everything about the new features in HGLaborSurvival
+Before you start to read make sure that you have installed the resourcepack
+If not type /rp in the chat to download it
 
 # Moonflight
 In HGLaborSurvival you can fly to the moon. 
