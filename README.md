@@ -17,6 +17,7 @@ Just place your crafted rocket on the ground and enjoy the flight. Before you st
 ![Suit Chestplate](https://cdn.discordapp.com/attachments/798574269801037864/798654304017055774/unknown.png)
 ![Suit Leggins](https://cdn.discordapp.com/attachments/798574269801037864/798654290658459658/unknown.png)
 ![Suit Boots](https://cdn.discordapp.com/attachments/798574269801037864/798654370216280124/unknown.png)
+![Rocket](https://cdn.discordapp.com/attachments/626768815476310017/799246865488150568/unknown.png)
 
 # Warning - Aliens!
 
